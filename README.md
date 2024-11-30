@@ -4,6 +4,8 @@
 This project demonstrates a 3D modeling application using OpenGL and GLUT. It includes interactive features like camera movement, player actions, and dynamic adjustments for shooting mechanics.
 
 ---
+![Example Game](assets/images/examplegame.png)
+---
 
 ## ✨ Features
 
@@ -18,7 +20,7 @@ This project demonstrates a 3D modeling application using OpenGL and GLUT. It in
 
 To compile and run the project, you need:
 - A C++ compiler supporting C++11 or later.
-- **OpenGL** and **GLUT** libraries.
+- **OpenGL** and **GLUT** libraries. (If using windows)
 - **SOIL (Simple OpenGL Image Library)** for texture handling. (Already in the project root)
 
 ---
